@@ -3,7 +3,7 @@
 ## Overview
 This project involves predicting stock prices using Long Short-Term Memory (LSTM) neural networks. The program takes user input for the stock symbol, the starting year for data analysis, and the number of days of data to be used. It then fetches historical stock price data from Yahoo Finance, scales the data, and trains an LSTM model to make predictions. The predictions are then compared with the actual stock prices and visualized for analysis.
 
-## Prerequisites
+## Prerequisites 
 - Python 3
 - Jupyter Notebook or any Python IDE
 
